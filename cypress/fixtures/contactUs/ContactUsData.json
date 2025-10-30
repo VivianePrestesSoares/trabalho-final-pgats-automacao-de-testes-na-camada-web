@@ -1,0 +1,9 @@
+{
+    "form": {
+        "name": "Viviane Soares",
+        "email": "viviane@test.com",
+        "subject": "Test Subject",
+        "message": "This is a test message.",
+        "filePath": "cypress/fixtures/contactUs/formAttachment.png"
+    }
+}
